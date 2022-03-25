@@ -10,3 +10,6 @@ An interactive application to replace the green screen in a video with a desired
 4) Adjust he track bars corresponding to the three functions manually to obtain the optimal results.
 
 ![Snapshot](https://user-images.githubusercontent.com/81757215/160077970-cbac004a-7508-4d64-bf13-6fc74d6dfffd.JPG)
+
+## Additional information
+Please ensure that the pixel resolution of the background image used and the video are the same, otherwise, error will be prompted.
